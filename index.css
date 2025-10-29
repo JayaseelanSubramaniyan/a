@@ -1,6 +1,6 @@
 nav{
     position: fixed;
     top: 0;
-    padding-left: 50%;
-    font-size: 50px;
+    margin-left: 50%;
+    nav-down: auto;
 }

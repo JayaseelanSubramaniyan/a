@@ -1,6 +1,27 @@
-nav{
-    position: fixed;
-    top: 0;
-    margin-left: 50%;
-    nav-down: auto;
+.backnav{
+    height: 100px;
+    width: auto;
+    background-color: red;
+}
+
+.backnav .nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 40px 40px 0 0;
+}
+
+.backnav .nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+.backnav .nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+.backnav .headimg img{
+    height: 100px;
+}
+.backnav .nav ul .lio{
+    display: flex;
 }

@@ -21,7 +21,5 @@
 
 .backnav .headimg img{
     height: 100px;
-}
-.backnav .nav ul .lio{
-    display: flex;
+    position: relative;
 }
